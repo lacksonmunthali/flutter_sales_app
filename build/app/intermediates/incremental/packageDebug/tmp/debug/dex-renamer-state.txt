@@ -1,4 +1,4 @@
-#Wed Jun 29 22:25:56 CAT 2022
+#Wed Jun 29 22:38:11 CAT 2022
 base.0=/Users/ecocubetechnology/Documents/Tutorial/flutter_sales_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

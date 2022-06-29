@@ -26,16 +26,20 @@ class _SalesState extends State<Sales> {
         ),
       ),
     ),
-    Text(
-      'Statistics',
-      style: TextStyle(
-        color: Color(0xFFFFFFFF),
+    Center(
+      child: Text(
+        'Statistics',
+        style: TextStyle(
+          color: Color(0xFFFFFFFF),
+        ),
       ),
     ),
-    Text(
-      'Profile',
-      style: TextStyle(
-        color: Color(0xFFFFFFFF),
+    Center(
+      child: Text(
+        'Profile',
+        style: TextStyle(
+          color: Color(0xFFFFFFFF),
+        ),
       ),
     ),
   ];
